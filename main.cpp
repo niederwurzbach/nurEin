@@ -15,7 +15,7 @@ int main() {
     myDeque.push_front(2);
 
     // Accessing elements
-    std::cout << "Elements of deque:";
+    std::cout << "Elements of deque: de 2";
     for (int num : myDeque) {
         std::cout << " " << num;
     }
